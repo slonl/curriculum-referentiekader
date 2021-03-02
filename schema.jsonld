@@ -1,0 +1,40 @@
+{
+	"@context": {
+		"referentiekader": "http://opendata.slo.nl/curriculum/schemas/referentiekader.jsonld",
+		"id": {
+			"@id": "@id"
+		},
+		"title": {
+			"@id": "http://purl.org/dc/terms/title",
+			"@type": "@id"
+		},
+		"description": {
+			"@id": "http://purl.org/dc/terms/description",
+			"@type": "@id"
+		},
+		"ref_domein_id": {
+			"@container": "@set"
+		},
+		"ref_vakleergebied": {
+			"@id": "referentiekader:#ref_vakleergebied"
+		},
+		"ref_domein": {
+			"@id": "referentiekader:#ref_domein"
+		},
+		"ref_subdomein": {
+			"@id": "referentiekader:#ref_subdomein"
+		},
+		"ref_onderwerp": {
+			"@id": "referentiekader:#ref_onderwerp"
+		},
+		"ref_deelonderwerp": {
+			"@id": "referentiekader:#ref_deelonderwerp"
+		},
+		"ref_tekstkenmerk": {
+			"@id": "referentiekader:#ref_tekstkenmerk"
+		},
+		"deprecated": {
+			"@id": "referentiekader:#Deprecated"
+		}
+	}
+}

@@ -1,0 +1,204 @@
+{
+    "definitions": {
+        "ref_vakleergebied": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                },
+                "vakleergebied_id": {
+                    "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
+                },
+                "ref_domein_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/ref_domein"
+                            }
+                        }
+                    ]
+                }
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","ref_domein_id"]
+                },
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        },
+        "ref_domein": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                },
+                "ref_subdomein_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/ref_subdomein"
+                            }
+                        }
+                    ]
+                }
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","ref_subdomein_id"]
+                },
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        },
+        "ref_subdomein": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                },
+                "ref_subdomein_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/ref_onderwerp"
+                            }
+                        }
+                    ]
+                }
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","ref_onderwerp_id"]
+                },
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        },
+        "ref_onderwerp": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                },
+                "ref_deelonderwerp_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/ref_deelonderwerp"
+                            }
+                        }
+                    ]
+                },
+                "ref_tekstkenmerk_id": {
+                    "allOf": [
+                        {
+                            "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"
+                        },
+                        {
+                            "items": {
+                                "itemTypeReference": "#/definitions/ref_tekstkenmerk"
+                            }
+                        }
+                    ]
+                }
+            },
+            "anyOf": [
+                {
+                    "required": ["id","title","ref_deelonderwerp_id"]
+                },
+                {
+                    "required": ["id","title","ref_tekstkenmerk_id"]
+                },
+                {
+                    "required": ["id","title","doelniveau_id"]
+                }
+            ]
+        },
+        "ref_deelonderwerp": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                }
+            },
+            "required": ["id","title","doelniveau_id"]
+        },
+        "ref_tekstkenmerk": {
+            "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
+            "properties": {
+                "prefix": {
+                    "type": "string"
+                }
+            },
+            "required": ["id","title","doelniveau_id"]
+        }        
+    },
+    "$id": "https://opendata.slo.nl/curriculum/schemas/curriculum-referentiekader/context.json",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "ref_vakleergebied": {
+            "#file": "data/ref.vakleergebieden.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/ref_vakleergebied"
+            }
+        },
+        "ref_domein": {
+            "#file": "data/ref.domeinen.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/ref_domein"
+            }
+        },
+        "ref_subdomein": {
+            "#file": "data/ref.subdomeinen.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/ref_subdomein"
+            }
+        },
+        "ref_onderwerp": {
+            "#file": "data/ref.onderwerpen.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/ref_onderwerp"
+            }
+        },
+        "ref_deelonderwerp": {
+            "#file": "data/ref.deelonderwerpen.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/ref_deelonderwerp"
+            }
+        },
+        "ref_tekstkenmerk": {
+            "#file": "data/ref.tekstkenmerken.json",
+            "type" : "array",
+            "items": {
+                "$ref": "#/definitions/ref_tekstkenmerk"
+            }
+        },        
+        "deprecated": {
+            "#file": "data/deprecated.json",
+            "type" : "array"
+        }
+    },
+    "required": ["doelniveau","doel","niveau"]
+}
