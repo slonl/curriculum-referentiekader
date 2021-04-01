@@ -1,1 +1,146 @@
-[]
+[
+	{
+		"prefix": "RKR_1.A",
+		"ref_onderwerp_id": [
+			"fffa3793-e0b1-4d09-a602-1124ecd5a751",
+			"0743bf87-de04-4012-9214-38871be9ebcb",
+			"608a8b0b-b1ab-4fc0-a4d3-5f2cf7e2d62a"
+		],
+		"description": "Uitspraak, schrijfwijze en betekenis van getallen, symbolen en relaties\r\nWiskundetaal gebruiken",
+		"title": "Getallen - Notatie taal en betekenis",
+		"id": "897ef51d-f217-422b-88ef-cd3084e1e909",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_1.B",
+		"ref_onderwerp_id": [
+			"60ab8a70-9bbd-4e52-b562-a5397eb762fa",
+			"da187838-373d-4587-a356-e84a68649858",
+			"23077bef-7886-4628-9564-c1bcd536de6b"
+		],
+		"description": "Getallen en getalrelaties\r\nStructuur en samenhang",
+		"title": "Getallen - Met elkaar in verband brengen",
+		"id": "85aa7940-b629-4d48-b068-984b2d85dc58",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_1.C",
+		"ref_onderwerp_id": [
+			"a52e6a0b-5ba0-46a9-bbfe-6137aee2fb1b",
+			"ad8ac917-b98c-4d38-bcff-c89cb4683411",
+			"a6228545-098c-466a-896b-4ee76e728471"
+		],
+		"description": "Hoofdrekenen (n-teren van tussenresultaten toegestaan)\r\nHoofdbewerkingen (+, -, x, :) -p papier uitvoeren met gehele getallen en decimale getallen",
+		"title": "Getallen - Gebruiken",
+		"id": "ef666d6f-2028-4e97-8e59-0fd229e741fc",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_2.A",
+		"ref_onderwerp_id": [
+			"cc050bba-734a-4e52-bc2d-f752f9267416",
+			"e93e0f43-adf4-4f6d-bfb3-e1b261d50f2f",
+			"d6abdc0c-4514-4f17-98bd-c128040eb76e"
+		],
+		"description": "Uitspraak, schrijfwijze en betekenis van getallen, symbolen en relaties\r\nWiskundetaal gebruiken",
+		"title": "Verhoudingen - Notatie taal en betekenis",
+		"id": "dd4b124b-72d2-4f7e-97f0-ac093b7e72fa",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_2.B",
+		"ref_onderwerp_id": [
+			"98f11de6-35af-4a6d-bdb2-318b8f159604",
+			"257d0e82-558e-49c9-9f49-5cda74c71afb",
+			"cb5f894e-b7db-4a0a-8b62-8e7120eedbd5"
+		],
+		"description": "Verhouding, procent, breuk, decimaal getal, deling, 'deel van' met elkaar in verband brengen",
+		"title": "Verhoudingen - Met elkaar in verband brengen",
+		"id": "7f508269-4698-4da3-b340-694cc8efd86e",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_2.C",
+		"ref_onderwerp_id": [
+			"db059499-ec54-41cd-aecb-8a0ee3b469aa",
+			"5457cc06-0746-4c80-8f78-9aeaae2724cf",
+			"4766bbef-343a-47e1-968b-20f2a7c66ef9"
+		],
+		"description": "In de context van verhoudingen berekeningen uitvoeren, ook met procenten en verhoudingen",
+		"title": "Verhoudingen - Gebruiken",
+		"id": "52f7f7af-32c7-41cc-bfc8-67de7228e92d",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_3.A",
+		"ref_onderwerp_id": [
+			"4cf2fc91-6567-4fe5-bc48-eb8fb0cbb652",
+			"1d653710-832b-4fce-af7d-e71e193b51d7",
+			"3e37f228-6bc5-46b4-aec9-7aea02206fe3"
+		],
+		"description": "Maten voor lengte, oppervlakte, inhoud en gewicht, temperatuur\r\nTijd en geld\r\nMeetinstrumenten\r\nSchrijfwijze en betekenis van meetkundige symbolen en relaties",
+		"title": "Meten en Meetkunde - Notatie taal en betekenis",
+		"id": "09db7417-6094-461c-b51f-3f0e3cf71b79",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_3.B",
+		"ref_onderwerp_id": [
+			"4487ceba-faf8-4491-b518-9331ee117946",
+			"858daf18-f704-4ff7-a6de-d0cb82f2ff70",
+			"b2fbce01-9157-4f16-8cc8-2860b9ea28a6"
+		],
+		"description": "Meetinstrumenten gebruiken\r\nStructuur en samenhang  tussen maateenheden\r\nVerschillende  representaties, 2D en 3D",
+		"title": "Meten en Meetkunde - Met elkaar in verband brengen",
+		"id": "327b83cd-f1d5-4c71-88e3-0c82771cf86c",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_3.C",
+		"ref_onderwerp_id": [
+			"e50f795b-e56d-4bc2-9c68-cb770360ec4b",
+			"19534814-27ba-4687-b322-bb3abf3e90e9",
+			"fb6d555f-5308-4381-be4e-9d1973475cbc"
+		],
+		"description": "Meten en Rekenen in de meetkunde",
+		"title": "Meten en Meetkunde - Gebruiken",
+		"id": "491b4d39-c4de-4704-960a-24636aab91f2",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_4.A",
+		"ref_onderwerp_id": [
+			"1f038e86-8ee6-47d9-bbb8-8b947f34b59d",
+			"5dc8f9ee-005c-4e53-92bb-4c5c42c4e245",
+			"a5c195d1-c96c-416b-b29a-92df67f654e6"
+		],
+		"description": "Analyseren en interpreteren van informatie uit tabellen, grafische voorstellingen en beschrijvingen\r\nVeel voorkomende diagrammen en grafieken.",
+		"title": "Verbanden - Notatie taal en betekenis",
+		"id": "e5222936-f71a-463e-8042-eec9035c85e2",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_4.B",
+		"ref_onderwerp_id": [
+			"604673ba-21fe-49c6-a180-b2f91e9bf0bd",
+			"c8429dcb-2865-43ec-8004-97bd59b5c60d",
+			"43f78719-ba99-4c7b-b3ac-b0defd4c849c"
+		],
+		"description": "Verschillende voorstellingvormen met elkaar in verband brengen\r\nGegevens verzamelen, ordenen en weergeven\r\nPatronen beschrijven",
+		"title": "Verbanden - Met elkaar in verband brengen",
+		"id": "b6af6266-a675-4fe1-974e-8f4c4f75c4f5",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_4.C",
+		"ref_onderwerp_id": [
+			"47977310-f038-40b1-ae96-2cd89649c052",
+			"70342a96-9684-4e91-bed7-ca258b94c9a2",
+			"3f0b0fa1-57be-4a2c-89ae-dac3b21b0561"
+		],
+		"description": "Tabellen, diagrammen en grafieken gebruiken bij het oplossen van problemen\r\nRekenvaardigheden gebruiken",
+		"title": "Verbanden - Gebruiken",
+		"id": "957b9c7e-56c9-43b7-b523-0c30aaff8fb2",
+		"unreleased": true
+	}
+]
