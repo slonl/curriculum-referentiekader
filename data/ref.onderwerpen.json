@@ -639,5 +639,276 @@
 		"title": "Weten waarom - 4C",
 		"id": "3f0b0fa1-57be-4a2c-89ae-dac3b21b0561",
 		"unreleased": true
+	},
+	{
+		"prefix": "RKT1.1.1",
+		"ref_deelonderwerp_id": [
+			"43a0abda-98a7-40a5-a9fb-8512cdeee6e2",
+			"ba1aeeb4-d6ed-4c96-b1d9-0cc455598a4f",
+			"048bcfc9-0b63-4dae-ba2d-9772e66562af",
+			"673f6841-bb75-474d-9a69-9639951edd2a",
+			"8ed5c0a7-c81d-4ba3-863d-b3715caa754e"
+		],
+		"doelniveau_id": [
+			"1de9ed5a-b5a1-48a2-a194-d8e85d9b90e4",
+			"34691a96-d0af-469a-a532-1f7e114616ec",
+			"f75ca4e9-98da-4349-b1d7-f538008939f1",
+			"528cd8e0-34b0-400b-92a6-0a829e54d0c6"
+		],
+		"title": "Deelnemen aan discussies en overleg",
+		"id": "c4c0c38a-f005-4786-a006-05c5dd1724a6",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT1.1.2",
+		"doelniveau_id": [
+			"ec246397-67ce-4fbc-a30d-96da553977cc",
+			"efde2961-36a1-4e36-84e4-0f15998186ef",
+			"b035e422-5b08-44e0-b5d6-d2d85750a013",
+			"e346abba-0eda-45ae-a37a-53454f6c9cd6"
+		],
+		"title": "Informatie uitwisselen",
+		"id": "e19b7a2a-524b-449d-ac99-c2f1e97872fe",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT1.2.1",
+		"ref_deelonderwerp_id": [
+			"45c08727-b962-4667-b6ee-621b3baf906e",
+			"e6375e3b-69ca-465e-a1a8-eee62137a1c6",
+			"e5af08d9-8eb5-4ce1-bfd1-7798f554bf2e",
+			"6438b43d-6aa8-4897-b696-fd01dcbf8abe"
+		],
+		"doelniveau_id": [
+			"0a95b335-0011-4959-8f57-24cb3e51040d",
+			"99ccba8a-cee6-41e0-bb22-d957def11258",
+			"194c0003-f23c-4a22-8846-73659080470f",
+			"fb3ce717-8ace-4f5d-b28d-11f369253f1a",
+			"71f19851-0484-4a49-9364-df314b0ad95d",
+			"747148d6-0c7f-4e0d-b362-64a2680e9d9b",
+			"d004fe51-96f8-4b81-804d-c4108d853f57",
+			"dec397a8-d5fa-4b95-8a8b-f7d81d7c7743",
+			"b4d38f41-85e7-42c0-94f1-e00b68f1b97f",
+			"7c101e4a-b364-4d6c-80c1-298623a9c87b",
+			"a2bfee2c-597c-4e7b-8392-ab36e988f639",
+			"5dd4b421-6124-4528-a904-a15d0e00dbde",
+			"1d8e9a4d-167e-4a98-90dd-ae1ddedea0ea",
+			"28e71063-368c-4a92-9157-0e592f2b4b5c",
+			"52f84a2c-e03a-4a00-98e2-660012c22709",
+			"fc0a0977-1cdb-47f0-b3b7-a91ee731391d",
+			"0ce89705-7842-4724-a719-82b21535ed1c",
+			"8adb466b-e35f-4786-b309-83743b5c4eef",
+			"6eaecaac-4eec-4464-91f5-d460fba28f79",
+			"8c8309df-cb23-4143-b253-1e45cf888261",
+			"bfd47a7b-3929-4686-bf61-92025efbfd2b",
+			"4e654c8e-3a60-4fb8-9bf9-209b27fa5230",
+			"1a6e4ca6-621e-4da7-9adc-396c92b56c02",
+			"cdaecd08-9f0a-4645-b142-0b75b71df2eb"
+		],
+		"title": "Luisteren naar instructies",
+		"id": "5d7fe1cb-1f43-4425-8491-2c7b32c77f81",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT1.2.2",
+		"doelniveau_id": [
+			"2c5cba10-3115-45dd-a956-01b99f80dbc0",
+			"00a68cc9-d45a-4463-97fa-3fc166a21691",
+			"a8046b04-c977-4e71-8e8b-95f2b108cedb",
+			"68286e1d-a62f-4715-9b50-7d65081e9f74"
+		],
+		"title": "Luisteren als lid van een live publiek",
+		"id": "145f6939-bc18-4554-880e-8fcca63f08ee",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT1.2.3",
+		"doelniveau_id": [
+			"72a08a28-94a5-4e96-823d-e25f7d0401f7",
+			"2dee2fbe-12f2-4040-8744-ecddaec6d5ca",
+			"36b94e8c-1338-4e4f-9e90-658c026f2342",
+			"9988ac82-cbdf-4125-b21e-d2be958867d1"
+		],
+		"title": "Luisteren naar radio en televisie en naar gesproken tekst op internet",
+		"id": "81dc454b-3779-4668-8190-378fdbae960f",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT1.3.1",
+		"ref_deelonderwerp_id": [
+			"003478c3-6d7a-485c-a077-6dd2e207b3d1",
+			"cfaeb837-0cc9-4a64-81b4-65331f57a1d8",
+			"19ee318e-3cc9-4986-b962-b0140db86094",
+			"b0ed8fd4-31ff-483b-af76-2cd852040fca",
+			"c86c74a7-8cfe-4c0d-98c7-29667a6f66d6"
+		],
+		"doelniveau_id": [
+			"191d9ae7-cd2e-40a6-a916-5535be261bcc",
+			"380a64e5-82a8-4468-896b-d2293df328df",
+			"9fad4839-aec1-4531-ad38-c03ec0c2ff6f",
+			"b74cb60a-72a3-45dc-ac17-c940e15220ec",
+			"3b0255b1-69b4-4269-b55d-4d222b29f87f",
+			"73e87aa1-0a25-4a5b-a22d-f20b1a8a375d",
+			"b3a9608f-0f78-45d5-b47e-ec00f6542cae",
+			"6a0feb1b-6774-4986-b82b-e5214efab480",
+			"69d9d515-5998-42b9-aeea-749b2c62da34",
+			"d1096647-8988-4e37-9ef0-5c1f1db3baa6",
+			"e799494a-5b12-41c1-b3e8-f9b2716e7d4b"
+		],
+		"title": "Een monoloog houden",
+		"id": "3ab278b0-d7ce-45ea-b0e3-e403c5dd2d17",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT2.1.1",
+		"ref_deelonderwerp_id": [
+			"63db2db1-95b1-46ad-bca5-7d1fc8db89a0",
+			"568db08a-11d1-4ed6-91bf-46f497a48669",
+			"71e08176-0943-454f-89b0-af1d5d6bf5fc",
+			"b7a90fdd-8576-41d3-aedd-5ff943a6f20b",
+			"8f30d2a7-161c-438a-86df-6403004b0995",
+			"e83b98d5-7a16-42e1-949b-a8fe3c69c081"
+		],
+		"doelniveau_id": [
+			"0839acfe-a142-4ddb-b5c5-1cff82bc2365",
+			"89caffde-0971-4f3f-96da-cc8a19a062b9",
+			"05ba4231-4f81-462f-aeac-e0498bbab523",
+			"74a93dd0-caf2-4e96-9f00-1d09a79e55cc"
+		],
+		"title": "Lezen van informatieve teksten",
+		"id": "1611e2e0-7dab-4762-902d-751f75cdba4f",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT2.1.2",
+		"doelniveau_id": [
+			"6fdc82eb-2fa3-44bb-8749-e69354896882",
+			"17fd7b9a-335e-4801-b581-2a012ed3e297",
+			"1fb67599-a6e0-455d-b018-acbc73168bd8"
+		],
+		"title": "Lezen van instructies",
+		"id": "748f3ca7-6653-4b12-85b1-55191f85102d",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT2.1.3",
+		"doelniveau_id": [
+			"40c518c4-6ff0-422b-8be4-a8ca2792e95e",
+			"749fffd4-972a-46c1-b4d4-164fd67888e5",
+			"47192209-9184-43a4-8f99-ff2a63186cbf",
+			"c7ba6bf6-2404-4b5b-a52a-dfdf77ae38bf"
+		],
+		"title": "Lezen van betogende teksten",
+		"id": "69b0d729-9372-4595-a028-e1ff47f51b79",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT2.2.0",
+		"ref_deelonderwerp_id": [
+			"581fd015-86cf-4b18-9485-59e7dc54d891",
+			"bc7f2317-cf7f-4b10-95ea-ff0d76a9fba6",
+			"ec18e6ac-87c8-442b-8cd8-a2c1f2428193"
+		],
+		"title": "Fictionele, narratieve en literaire teksten",
+		"id": "1d49d021-4229-4c63-83b4-d475b5d6a1a9",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT3.1a",
+		"description": "Kenmerk van de taakuitvoering",
+		"doelniveau_id": [
+			"474b966c-3ba0-425b-9715-94fc97b19b6c",
+			"e4ef0262-67d9-4fbd-8da1-f5592ecca2f3",
+			"b49272f0-0532-4e01-b554-edcb75ca76f0",
+			"f6a3d1c0-d3d4-4959-937d-605015b7fd83",
+			"2e93de44-a311-4e16-8027-1bb2fbdb5159",
+			"6a23495e-e348-4876-ad52-315e9aeb86e5",
+			"63142d8a-223c-417e-aa7f-92410a725c3a",
+			"2a9feeee-5605-4d7f-8663-08329480d007",
+			"0e97c2b2-67fe-4986-8c0e-2472993cc732",
+			"1a987ad6-3f2f-457b-b9c5-f6714412d328",
+			"d199b4b1-9889-4855-b759-6d3f96791da1",
+			"7a2b0b23-bc15-465c-aada-4e6ad476295c",
+			"a4d61f64-3e99-49a7-bc19-195d24853b68",
+			"cb5d96d0-23cf-4429-bf67-500635a6d535",
+			"12bd88ba-955e-4bc5-8851-69fb544da694"
+		],
+		"title": "Samenhang",
+		"id": "08393e28-4dd5-44f5-9a2c-c39066eb50d6",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT3.1b",
+		"description": "Kenmerk van de taakuitvoering",
+		"doelniveau_id": [
+			"35954ef5-08b3-48e5-a0c4-ec60548c02af",
+			"6077be7f-f5a1-442a-b9de-48697e553cfc",
+			"c2825ef4-d4e7-44e2-90c9-449e4ce6105a",
+			"3a1849d9-3b04-499e-8148-5d6784bfcb3b",
+			"dcb69832-3744-4712-89d4-dc44092e8052",
+			"63a98da7-f9b4-4d89-b187-f0f6feae6000",
+			"1e69aa79-c2e9-4a98-ba18-36fc671a4557",
+			"7a392d16-c7f8-4a22-9368-307d245fe0cd"
+		],
+		"title": "Afstemming op publiek",
+		"id": "85aa3c05-615a-4894-95ee-80450e94f1c5",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT3.1c",
+		"description": "Kenmerk van de taakuitvoering",
+		"doelniveau_id": [
+			"fa8cf3cd-c6d8-4963-99c6-20a22fb091d6",
+			"a3e70ea5-944d-42b9-b4f6-9c06e431ebeb",
+			"6c2533e8-e169-43f3-8f67-febcaf602e18"
+		],
+		"title": "Afstemming op doel - Schrijven",
+		"id": "41cdd3a2-0a30-44c4-8760-a9451513bb0b",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT3.1d",
+		"description": "Kenmerk van de taakuitvoering",
+		"doelniveau_id": [
+			"ab956371-6095-4fd9-ba88-7695bfeae713",
+			"8b334f43-b5c8-400a-ab49-ad9c79d5052a",
+			"18d7c43a-815c-4550-8060-d46a71111482",
+			"39651774-50e6-42de-a6dc-22f936cd21bc",
+			"bb6b8698-58fb-4f88-a3cb-c8e1d2433580"
+		],
+		"title": "Woordgebruik en woordenschat - Schrijven",
+		"id": "f68c8099-533b-400a-be52-bf8c0c31c300",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT3.1e",
+		"description": "Kenmerk van de taakuitvoering",
+		"doelniveau_id": [
+			"ac7fc1b7-b2a2-496e-b4a5-7b2393a36084",
+			"34e5093d-52d3-4f10-8315-f18c5f8b4633",
+			"fb541dc2-d855-421d-8529-d15d31e40958",
+			"e77f0ff6-9011-4566-84f7-6e723a650189"
+		],
+		"title": "Spelling, interpunctie en grammatica",
+		"id": "b45f48ab-daba-41e3-b8e4-caf9e48d68a3",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT3.1f",
+		"description": "Kenmerk van de taakuitvoering",
+		"doelniveau_id": [
+			"ce411e1c-865e-41d6-821d-6d6b09fd9239",
+			"6c1f82e4-164c-46d6-8490-de1005ff5e44",
+			"a5043b06-4b1f-4ce7-b4ef-aa3be7fadbaf",
+			"87d0eed7-70f4-4c40-bddf-5569e55ec45b",
+			"355329a8-f9f7-4d0f-a39c-c796b420dfc3",
+			"79048669-7b1a-4697-af50-80e90d2bbb36",
+			"f9a576de-fab5-4a15-912c-45e3bf666ba9",
+			"332a9d53-faed-4d07-80b7-009467ab2f20",
+			"192ff838-231a-4d09-a8cd-b2c5693b2078"
+		],
+		"title": "Leesbaarheid",
+		"id": "5ba32171-977b-469c-8538-511eb9d773f4",
+		"unreleased": true
 	}
 ]
