@@ -11,16 +11,5 @@
 		"title": "Referentiekader Rekenen",
 		"id": "32607ea2-2653-497c-813f-5c1eec62e914",
 		"unreleased": true
-	},
-	{
-		"vakleergebied_id": "e41b8c50-d002-4a9f-be8b-9b5da0008656",
-		"ref_domein_id": [
-			"688d2496-ad59-4e02-aa35-9601784a1a3f",
-			"b5bb0c7d-14d3-4cb4-a801-4a243ea268d8",
-			"3294a2a0-af2e-4d78-bf6e-faa79cc25a36"
-		],
-		"title": "Referentiekader Taal",
-		"id": "31b9587f-8473-4802-bba2-006041b22042",
-		"unreleased": true
 	}
 ]
