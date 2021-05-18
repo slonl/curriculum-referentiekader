@@ -1,1 +1,15 @@
-[]
+[
+	{
+		"prefix": "RKR",
+		"vakleergebied_id": "12209d8b-24d3-440a-8e2e-e85bfebc1e13",
+		"ref_domein_id": [
+			"cbe5831f-4031-464d-9f9b-ea9d3c2f324e",
+			"8c519ad9-c040-4560-ab9b-c96caf64d75b",
+			"7c8b9edd-ab95-4d54-8bbd-ed2c1bd3d420",
+			"4ee30484-ecec-45b7-9fad-81fcb021ca93"
+		],
+		"title": "Referentiekader Rekenen",
+		"id": "87688155-0838-4547-b570-5f087ac509f2",
+		"unreleased": true
+	}
+]
