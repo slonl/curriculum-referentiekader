@@ -42,5 +42,45 @@
 		"title": "Verbanden",
 		"id": "4ee30484-ecec-45b7-9fad-81fcb021ca93",
 		"unreleased": true
+	},
+	{
+		"prefix": "RKT1",
+		"ref_subdomein_id": [
+			"c618c2a1-cf6d-4106-b973-8c3b5b599690",
+			"ef31bea7-4afd-4844-a474-d3ce88aa1336",
+			"8357a3fd-d988-4b02-abd7-dcad8632c6be"
+		],
+		"title": "Mondelinge taalvaardigheid",
+		"id": "7c80091e-7993-49a4-b12a-7382cc5c9940",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT2",
+		"ref_subdomein_id": [
+			"62b8576c-dbe7-499f-970c-3f8c8153480f",
+			"7bfe5a51-162c-474e-90d1-3ad728a20972"
+		],
+		"title": "Lezen",
+		"id": "b5bb0c7d-14d3-4cb4-a801-4a243ea268d8",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT3",
+		"ref_subdomein_id": [
+			"bdb14cdc-e85b-4969-bd00-9c66a0088966",
+			"9a098ea3-920e-446e-b6e3-f8590b657c71",
+			"3191a6c2-2f54-4c4d-b5e3-a90932186316",
+			"64c3fa38-7967-4c47-9d1b-0611db869731"
+		],
+		"doelniveau_id": [
+			"72eab440-1c2d-404f-9826-5043845187ce",
+			"e4d0d8ff-96c2-447a-9750-498e4b3acdd1",
+			"271a364c-3380-4b84-8939-ce2c092b1b2c",
+			"cdde0766-0055-48ca-9f60-c6c3d2a9c17e",
+			"e0a55373-f34f-4cf4-9f35-ef68491424b8"
+		],
+		"title": "Schrijven",
+		"id": "3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
+		"unreleased": true
 	}
 ]
