@@ -142,5 +142,174 @@
 		"title": "Gebruiken (4C)",
 		"id": "957b9c7e-56c9-43b7-b523-0c30aaff8fb2",
 		"unreleased": true
+	},
+	{
+		"prefix": "RKT1.1",
+		"ref_onderwerp_id": [
+			"c4c0c38a-f005-4786-a006-05c5dd1724a6",
+			"e19b7a2a-524b-449d-ac99-c2f1e97872fe"
+		],
+		"doelniveau_id": [
+			"89a1d3d3-5633-4693-8a6b-34c5e69ef225",
+			"cc43e606-07c7-44a0-9632-3d8d4ec4ce0a",
+			"c0579467-a424-413f-8958-3f7c59456ab6",
+			"9e2cc40b-1a1f-4e30-93ce-887275c2ee78"
+		],
+		"title": "Gesprekken",
+		"id": "c618c2a1-cf6d-4106-b973-8c3b5b599690",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT1.2",
+		"ref_onderwerp_id": [
+			"5d7fe1cb-1f43-4425-8491-2c7b32c77f81",
+			"145f6939-bc18-4554-880e-8fcca63f08ee",
+			"81dc454b-3779-4668-8190-378fdbae960f"
+		],
+		"doelniveau_id": [
+			"656f0bc8-a58c-4247-a2ff-f93e1b808074",
+			"64c83a78-74c5-4eb6-a136-2ffe77bc2873",
+			"4ece63aa-06e3-485a-a42e-2ba2e576968a",
+			"2a71fcbd-7f3d-4c88-8f38-db7258e75f56"
+		],
+		"title": "Luisteren",
+		"id": "ef31bea7-4afd-4844-a474-d3ce88aa1336",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT1.3",
+		"ref_onderwerp_id": [
+			"3ab278b0-d7ce-45ea-b0e3-e403c5dd2d17"
+		],
+		"doelniveau_id": [
+			"3fac25b0-e610-4096-a74c-ef55c89c97a7",
+			"34d672e8-c424-482d-9c69-912b9c5e4448",
+			"0c8aa165-faf1-4bd0-9bbb-ca7889b9846c",
+			"9ea90fdb-aa01-4562-b4cb-d903c1e48101"
+		],
+		"title": "Spreken",
+		"id": "8357a3fd-d988-4b02-abd7-dcad8632c6be",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT2.1",
+		"ref_onderwerp_id": [
+			"1611e2e0-7dab-4762-902d-751f75cdba4f",
+			"748f3ca7-6653-4b12-85b1-55191f85102d",
+			"69b0d729-9372-4595-a028-e1ff47f51b79"
+		],
+		"doelniveau_id": [
+			"64ec7aa2-a95f-4df7-96ab-9cbea2504d18",
+			"03f676a7-c37c-46de-ae6b-a2ae4ea53fd7",
+			"e0d7eb89-5871-49f2-b27f-12e297087e5b",
+			"e0c14d49-2343-4083-90eb-ec423d66ec9b",
+			"234577f6-f6aa-4e16-befd-b63fb8f310f5",
+			"41fd496a-428b-4c3e-b69e-482f4d458fb7",
+			"bd9813c6-f242-4008-b0d4-e3b628b20eaa",
+			"004df79c-a98f-43e2-8836-e03a952a7892",
+			"e6a4b5db-b225-4290-907d-09c3f9d97aaf",
+			"7346b455-0c28-42fc-aadb-251c87133823",
+			"d03e1857-383d-49e8-95e6-bef5de43c3f2",
+			"9d90e149-29ec-48af-91ac-bbcef2f07118",
+			"0dda6dd0-1429-4f42-ad57-bc0406c9ddc5",
+			"421464e0-ad1b-4af3-9e60-717c0b14918a"
+		],
+		"title": "Zakelijke teksten",
+		"id": "62b8576c-dbe7-499f-970c-3f8c8153480f",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT2.2",
+		"ref_onderwerp_id": [
+			"1d49d021-4229-4c63-83b4-d475b5d6a1a9"
+		],
+		"doelniveau_id": [
+			"5aa75a07-6b9e-4e3d-8f4f-3edd92f3a029",
+			"97a72d3f-600b-4aa6-8c57-ed5f283b516d",
+			"00069432-03cb-43de-9cf9-b2022b370649",
+			"11cb42c3-cba1-406f-b0fc-9a946de7d14d",
+			"12262bd0-3590-4487-a56d-82a55da84d0c",
+			"c1872f49-7b20-4078-9cd2-a11fa45952b5",
+			"b3cb0073-f1ed-4f3e-a31e-3e7c6caeb874",
+			"8dd705ce-1962-48b6-be8d-38c79cf57abf",
+			"cc47729e-b6f7-4efa-861c-7747eb42ddc8",
+			"04cabe8d-b308-481c-9ab2-09bce5e57f52",
+			"3d0fa670-a3f0-4273-8c18-eb6524e5b484",
+			"cb28ed84-f0b3-48f8-b5b9-26c674440904",
+			"8d3cad84-c94c-43e4-b233-ba99b3323d08",
+			"77dd5d21-5e6d-4786-8e5c-15e02c3a0070",
+			"1c83291e-e1e3-4f9e-b930-51fcd465d888"
+		],
+		"title": "Fictionele, narratieve en literaire teksten",
+		"id": "7bfe5a51-162c-474e-90d1-3ad728a20972",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT3.1",
+		"ref_onderwerp_id": [
+			"922f4528-1084-40a2-9e48-adc5fb29ac9a",
+			"85aa3c05-615a-4894-95ee-80450e94f1c5",
+			"0ce1d8d7-3ce3-4048-aa42-2bea99c632ee",
+			"163f17b2-66b1-4308-8b00-d4bf2da45fa1",
+			"b45f48ab-daba-41e3-b8e4-caf9e48d68a3",
+			"5ba32171-977b-469c-8538-511eb9d773f4"
+		],
+		"doelniveau_id": [
+			"5480e3fa-e2bc-4e33-9d86-bb87bc1c07ea",
+			"7c9ceb53-7b6b-4e04-9b69-12fae9b4c18a",
+			"77513fcb-f906-463d-9f30-b6f981616704",
+			"0b770178-fd82-4702-a1af-43aa97cc09e3",
+			"52862260-c9fd-4767-a762-4354caa69056",
+			"246fb990-fd3a-4fb8-81e3-c9e82522d642"
+		],
+		"title": "Correspondentie",
+		"id": "bdb14cdc-e85b-4969-bd00-9c66a0088966",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT3.2",
+		"doelniveau_id": [
+			"c85d733a-5f04-48d0-b2d5-cc13df50e3ac",
+			"0f4d8238-a2d2-42c5-b772-2586af4c9d14",
+			"3f40588d-7026-48a1-9aae-f32179dae6bc",
+			"0cdc1f9b-1ab1-49aa-b0bc-eb0936f04bb8",
+			"fa21d54c-3432-49ee-aef6-66f56d26722d",
+			"d4135d32-db10-4c72-b036-de78bff1e6d5",
+			"e8512a59-6a77-4a39-8530-1c023f3c4724",
+			"8a0f45e3-ebc4-45b2-b930-2d2d11ed4917",
+			"1fcff2b5-0b6c-48a7-856b-27b0b98ea84b",
+			"d3c07d92-31e9-4e41-adda-e4a5deedf50b"
+		],
+		"title": "Formulieren invullen, berichten, advertenties en aantekeningen",
+		"id": "9a098ea3-920e-446e-b6e3-f8590b657c71",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT3.3",
+		"doelniveau_id": [
+			"2da5fd38-ead2-4046-8a78-845b1803c591",
+			"18fc30c6-ab7c-4d02-8922-afe0bc4fb53c",
+			"1ab70751-9eb6-4b22-bc10-a46df59943f6",
+			"21093541-dd5b-4a59-bd19-72e64cf2dc99",
+			"dbf24f12-9d64-40c5-8ecc-44d0c164e475",
+			"1441ad2f-8723-4499-a4c7-624411655e55",
+			"b0283c49-4d4b-4dba-9bf3-7c3ec425e966",
+			"7a6bfae5-f70f-4778-89db-c41993d2e228",
+			"7fcca00e-4f4c-4901-9c5f-56e1e5847692",
+			"186e6b7f-2f01-4f7a-a6a4-a67614dd3986",
+			"fd6a2f8e-4f3b-42af-8e7c-fc2674ce45b3"
+		],
+		"title": "Verslagen, werkstukken, samenvattingen, artikelen",
+		"id": "3191a6c2-2f54-4c4d-b5e3-a90932186316",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT3.4",
+		"doelniveau_id": [
+			"38d3bc09-c8f0-44de-959f-a53d85eeeea1"
+		],
+		"title": "Vrij schrijven",
+		"id": "64c3fa38-7967-4c47-9d1b-0611db869731",
+		"unreleased": true
 	}
 ]
