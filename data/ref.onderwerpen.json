@@ -13,9 +13,10 @@
 			"4007ca2c-3749-4190-a84a-c9881b011595",
 			"f19f03e5-6877-42c4-a677-39b23bb4b8da"
 		],
-		"title": "Paraat hebben - 1A",
+		"title": "Paraat hebben",
 		"id": "fffa3793-e0b1-4d09-a602-1124ecd5a751",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_1.A.2",
@@ -29,9 +30,10 @@
 			"953776bf-d02d-4f22-b288-05c451a680ce",
 			"aa37cadf-ee69-44e6-b5cf-02e39b72b848"
 		],
-		"title": "Functioneel gebruiken  - 1A",
+		"title": "Functioneel gebruiken",
 		"id": "0743bf87-de04-4012-9214-38871be9ebcb",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_1.A.3",
@@ -44,9 +46,10 @@
 			"934d53ff-0eb8-46a1-bde0-9300724bc118",
 			"b60f21c3-8ba2-499e-befd-318250d31bb4"
 		],
-		"title": "Weten waarom - 1A",
+		"title": "Weten waarom",
 		"id": "608a8b0b-b1ab-4fc0-a4d3-5f2cf7e2d62a",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_1.B.1",
@@ -61,9 +64,10 @@
 			"84a854e3-91ec-4055-9fe3-d819df2c6e23",
 			"b75a0b61-b4a1-4798-b8e5-2505f8952761"
 		],
-		"title": "Paraat hebben - 1B",
+		"title": "Paraat hebben",
 		"id": "60ab8a70-9bbd-4e52-b562-a5397eb762fa",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_1.B.2",
@@ -83,9 +87,10 @@
 			"ff6f41d8-19c9-426e-91ff-8d1eac21aea6",
 			"b49a66e2-c0ec-4424-ace0-a7f00a3c12d1"
 		],
-		"title": "Functioneel gebruiken - 1B",
+		"title": "Functioneel gebruiken",
 		"id": "da187838-373d-4587-a356-e84a68649858",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_1.B.3",
@@ -100,9 +105,10 @@
 			"03f54240-5522-4e92-818a-a39286d8e243",
 			"9b489a9c-0515-405d-8424-06c3fc978460"
 		],
-		"title": "Weten waarom - 1B",
+		"title": "Weten waarom",
 		"id": "23077bef-7886-4628-9564-c1bcd536de6b",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_1.C.1",
@@ -133,9 +139,10 @@
 			"a8744830-50c6-48a1-823d-e7707e7450ee",
 			"ef5f0869-73d4-4cbe-9881-d73bd2fa4cec"
 		],
-		"title": "Paraat hebben - 1C",
+		"title": "Paraat hebben",
 		"id": "a52e6a0b-5ba0-46a9-bbfe-6137aee2fb1b",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_1.C.2",
@@ -152,9 +159,10 @@
 			"0fb377e6-c68c-4fd6-9dca-7e1e438b3269",
 			"0e471af0-54e5-4d33-9b90-fdcef9ae2d81"
 		],
-		"title": "Functioneel gebruiken - 1C",
+		"title": "Functioneel gebruiken",
 		"id": "ad8ac917-b98c-4d38-bcff-c89cb4683411",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_1.C.3",
@@ -169,9 +177,10 @@
 			"bb907777-431d-4acc-9192-85b39db82b31",
 			"75233838-6e80-423e-96e9-53ed06ad1050"
 		],
-		"title": "Weten waarom - 1C",
+		"title": "Weten waarom",
 		"id": "a6228545-098c-466a-896b-4ee76e728471",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_2.A.1",
@@ -189,9 +198,10 @@
 			"6a5ed60c-1802-4e1c-b2f2-1409959125df",
 			"8b95ca13-dd5d-4f22-a67c-e762e672a733"
 		],
-		"title": "Paraat hebben - 2A",
+		"title": "Paraat hebben",
 		"id": "cc050bba-734a-4e52-bc2d-f752f9267416",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_2.A.2",
@@ -205,9 +215,10 @@
 			"9dc19fad-97bb-435e-9565-6e39bc3b5cb9",
 			"9eae43cf-ea7a-4603-88c6-3ba889f4fcff"
 		],
-		"title": "Functioneel gebruiken - 2A",
+		"title": "Functioneel gebruiken",
 		"id": "e93e0f43-adf4-4f6d-bfb3-e1b261d50f2f",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_2.A.3",
@@ -215,9 +226,10 @@
 			"b02411fb-af55-41d3-af57-efffda9bb7c1",
 			"5e476991-7d34-476e-9611-3d54a383c4eb"
 		],
-		"title": "Weten waarom - 2A",
+		"title": "Weten waarom",
 		"id": "d6abdc0c-4514-4f17-98bd-c128040eb76e",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_2.B.1",
@@ -229,9 +241,10 @@
 			"3de011b6-9b36-42f5-84b3-6681273e9d67",
 			"7fed2059-1747-49b5-923c-24c54ab368d5"
 		],
-		"title": "Paraat hebben - 2B",
+		"title": "Paraat hebben",
 		"id": "98f11de6-35af-4a6d-bdb2-318b8f159604",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_2.B.2",
@@ -247,9 +260,10 @@
 			"c3ae0435-d410-4ebf-8eaa-658dd8a117de",
 			"685345e7-653f-488b-b025-dfb4909128f7"
 		],
-		"title": "Functioneel gebruiken - 2B",
+		"title": "Functioneel gebruiken",
 		"id": "257d0e82-558e-49c9-9f49-5cda74c71afb",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_2.B.3",
@@ -259,9 +273,10 @@
 			"c0c68911-64d4-46ab-94aa-3a9018f4aa37",
 			"6fc37c10-ff83-4fd8-99d6-958421da334c"
 		],
-		"title": "Weten waarom - 2B",
+		"title": "Weten waarom",
 		"id": "cb5f894e-b7db-4a0a-8b62-8e7120eedbd5",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_2.C.1",
@@ -275,9 +290,10 @@
 			"268e351f-c346-4d2a-81ed-34b5df377270",
 			"378aeede-2fbe-45b9-81a8-51670a3e32db"
 		],
-		"title": "Paraat hebben - 2C",
+		"title": "Paraat hebben",
 		"id": "db059499-ec54-41cd-aecb-8a0ee3b469aa",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_2.C.2",
@@ -294,9 +310,10 @@
 			"1b5933ed-a253-4acf-906d-cdaa8557fca7",
 			"9352e144-8749-4a20-ac7d-4292ab055267"
 		],
-		"title": "Functioneel gebruik - 2C",
+		"title": "Functioneel gebruik",
 		"id": "5457cc06-0746-4c80-8f78-9aeaae2724cf",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_2.C.3",
@@ -311,9 +328,10 @@
 			"f6e1389a-9926-434b-9d1f-ae7f2eb08d23",
 			"e38ec72d-ecac-4778-bd5f-188b42f830d2"
 		],
-		"title": "Weten waarom - 2C",
+		"title": "Weten waarom",
 		"id": "4766bbef-343a-47e1-968b-20f2a7c66ef9",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_3.A.1",
@@ -337,9 +355,10 @@
 			"2f0ea58c-bd26-4a3d-9da8-ecffbe6d231d",
 			"16538e69-7b52-4549-bc8e-f63e9619cdbc"
 		],
-		"title": "Paraat hebben - 3A",
+		"title": "Paraat hebben",
 		"id": "4cf2fc91-6567-4fe5-bc48-eb8fb0cbb652",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_3.A.2",
@@ -361,9 +380,10 @@
 			"8ec0beea-de49-45f8-b96a-1b4e04c80fb4",
 			"ec9a678c-5577-4492-85e3-1cfcc4f7d38c"
 		],
-		"title": "Functioneel gebruiken - 3A",
+		"title": "Functioneel gebruiken",
 		"id": "1d653710-832b-4fce-af7d-e71e193b51d7",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_3.A.3",
@@ -379,9 +399,10 @@
 			"b30eebb5-75c4-4896-8ab4-b46689b53034",
 			"7f7f07ed-18f6-44d5-949e-533297df932c"
 		],
-		"title": "Weten waarom - 3A",
+		"title": "Weten waarom",
 		"id": "3e37f228-6bc5-46b4-aec9-7aea02206fe3",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_3.B.1a",
@@ -397,9 +418,10 @@
 			"c61b6445-3ec5-43d8-b296-0ea45df3a1d2",
 			"35ab39ec-e8de-4e4a-8bb4-23c3a2e297d8"
 		],
-		"title": "Paraat hebben - 3B",
+		"title": "Paraat hebben",
 		"id": "4487ceba-faf8-4491-b518-9331ee117946",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_3.B.2",
@@ -419,9 +441,10 @@
 			"9a5ea4ad-ce1f-46a2-9efe-9220bef6d4dd",
 			"17dbca76-9356-4de2-988b-7a381caef0d4"
 		],
-		"title": "Functioneel gebruiken - 3B",
+		"title": "Functioneel gebruiken",
 		"id": "858daf18-f704-4ff7-a6de-d0cb82f2ff70",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_3.B.3",
@@ -437,9 +460,10 @@
 			"007ace40-7909-4ea2-a43e-0c9063e02203",
 			"047d5311-bd89-4dcc-be4f-ec223e218e72"
 		],
-		"title": "Weten waarom - 3B",
+		"title": "Weten waarom",
 		"id": "b2fbce01-9157-4f16-8cc8-2860b9ea28a6",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_3.C.1",
@@ -462,9 +486,10 @@
 			"efc513f1-66a4-4ed3-9351-19ebc3040125",
 			"4bf5ef5e-3cbf-43e5-b0a6-77e38bd114c3"
 		],
-		"title": "Paraat hebben - 3C",
+		"title": "Paraat hebben",
 		"id": "e50f795b-e56d-4bc2-9c68-cb770360ec4b",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_3.C.2",
@@ -477,9 +502,10 @@
 			"7cbe66da-518d-4c91-99da-fb27a1666de6",
 			"d8b493ad-77a8-4870-a841-c569f65795e2"
 		],
-		"title": "Functionele gebruiken - 3C",
+		"title": "Functionele gebruiken",
 		"id": "19534814-27ba-4687-b322-bb3abf3e90e9",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_3.C.3",
@@ -492,9 +518,10 @@
 			"c901044b-c4c6-4876-bd87-9fc3ca7293d0",
 			"e2c47e62-1477-4038-85d3-0f98e025a350"
 		],
-		"title": "Weten waarom - 3C",
+		"title": "Weten waarom",
 		"id": "fb6d555f-5308-4381-be4e-9d1973475cbc",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_4.A.1",
@@ -515,9 +542,10 @@
 			"d4ae41fe-c279-4193-b686-2a3609cbc421",
 			"f68e8c6c-cfcc-462a-a616-7e554d7b07d9"
 		],
-		"title": "Paraat hebben - 4A",
+		"title": "Paraat hebben",
 		"id": "1f038e86-8ee6-47d9-bbb8-8b947f34b59d",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_4.A.2",
@@ -531,9 +559,10 @@
 			"9f498efc-0dde-48c4-b25f-d4a1189df3e9",
 			"4e6f2cef-d91b-47ea-b2f8-797cd3f1847f"
 		],
-		"title": "Functioneel gebruik - 4A",
+		"title": "Functioneel gebruik",
 		"id": "5dc8f9ee-005c-4e53-92bb-4c5c42c4e245",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_4.A.3",
@@ -543,9 +572,10 @@
 			"1af10633-035c-4de3-b9e3-336c376f1914",
 			"b43b22a2-37f9-402d-81b9-032f987b83ce"
 		],
-		"title": "Weten waarom - 4A",
+		"title": "Weten waarom",
 		"id": "a5c195d1-c96c-416b-b29a-92df67f654e6",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_4.B.1",
@@ -565,9 +595,10 @@
 			"a8ab0e47-634e-4734-afb8-bc04e52714c2",
 			"b9ce689a-7836-4964-a798-bc8dfdfe2097"
 		],
-		"title": "Paraat hebben - 4B",
+		"title": "Paraat hebben",
 		"id": "604673ba-21fe-49c6-a180-b2f91e9bf0bd",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_4.B.2",
@@ -579,9 +610,10 @@
 			"7b2c4b59-9fc7-4e26-9180-ec175676bc1a",
 			"dfc985e2-d941-4e14-bc09-7968e646a30f"
 		],
-		"title": "Functioneel gebruiken - 4B",
+		"title": "Functioneel gebruiken",
 		"id": "c8429dcb-2865-43ec-8004-97bd59b5c60d",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_4.B.3",
@@ -594,9 +626,10 @@
 			"3c6095f4-2f21-4e28-beb8-36a35096b9a3",
 			"dc3183ee-c778-402e-aace-4a955e0db814"
 		],
-		"title": "Weten waarom - 4B",
+		"title": "Weten waarom",
 		"id": "43f78719-ba99-4c7b-b3ac-b0defd4c849c",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_4.C.1",
@@ -607,9 +640,10 @@
 			"336c11ab-6aa3-45b0-b48c-cc413d3ae2ef",
 			"e52cf2dc-19b3-4cbf-ba1e-667e5b7c5aec"
 		],
-		"title": "Paraat hebben - 4C",
+		"title": "Paraat hebben",
 		"id": "47977310-f038-40b1-ae96-2cd89649c052",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_4.C.2",
@@ -623,9 +657,10 @@
 			"c2826ac8-4bbe-46e7-a6ae-505ced45bf4d",
 			"833d22d0-8282-4bdc-9c77-e0e2fc062640"
 		],
-		"title": "Functioneel gebruiken - 4C",
+		"title": "Functioneel gebruiken",
 		"id": "70342a96-9684-4e91-bed7-ca258b94c9a2",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKR_4.C.3",
@@ -636,9 +671,10 @@
 			"6497a8ef-86cd-43f0-ab0f-f38adba3d697",
 			"c6a15ffe-9e24-4926-9990-15b49baf665f"
 		],
-		"title": "Weten waarom - 4C",
+		"title": "Weten waarom",
 		"id": "3f0b0fa1-57be-4a2c-89ae-dac3b21b0561",
-		"unreleased": true
+		"unreleased": true,
+		"description": ""
 	},
 	{
 		"prefix": "RKT1.1.1",
