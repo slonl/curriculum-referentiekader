@@ -7,7 +7,7 @@
 			"608a8b0b-b1ab-4fc0-a4d3-5f2cf7e2d62a"
 		],
 		"description": "Uitspraak, schrijfwijze en betekenis van getallen, symbolen en relaties\r\nWiskundetaal gebruiken",
-		"title": "Notatie taal en betekenis (1A)",
+		"title": "Notatie taal en betekenis",
 		"id": "897ef51d-f217-422b-88ef-cd3084e1e909",
 		"unreleased": true
 	},
@@ -19,7 +19,7 @@
 			"23077bef-7886-4628-9564-c1bcd536de6b"
 		],
 		"description": "Getallen en getalrelaties\r\nStructuur en samenhang",
-		"title": "Met elkaar in verband brengen (1B)",
+		"title": "Met elkaar in verband brengen",
 		"id": "85aa7940-b629-4d48-b068-984b2d85dc58",
 		"unreleased": true
 	},
@@ -31,7 +31,7 @@
 			"a6228545-098c-466a-896b-4ee76e728471"
 		],
 		"description": "Hoofdrekenen (n-teren van tussenresultaten toegestaan)\r\nHoofdbewerkingen (+, -, x, :) -p papier uitvoeren met gehele getallen en decimale getallen",
-		"title": "Gebruiken (1C)",
+		"title": "Gebruiken",
 		"id": "ef666d6f-2028-4e97-8e59-0fd229e741fc",
 		"unreleased": true
 	},
@@ -43,7 +43,7 @@
 			"d6abdc0c-4514-4f17-98bd-c128040eb76e"
 		],
 		"description": "Uitspraak, schrijfwijze en betekenis van getallen, symbolen en relaties\r\nWiskundetaal gebruiken",
-		"title": "Notatie taal en betekenis (2A)",
+		"title": "Notatie taal en betekenis",
 		"id": "dd4b124b-72d2-4f7e-97f0-ac093b7e72fa",
 		"unreleased": true
 	},
@@ -55,7 +55,7 @@
 			"cb5f894e-b7db-4a0a-8b62-8e7120eedbd5"
 		],
 		"description": "Verhouding, procent, breuk, decimaal getal, deling, 'deel van' met elkaar in verband brengen",
-		"title": "Met elkaar in verband brengen (2B)",
+		"title": "Met elkaar in verband brengen",
 		"id": "7f508269-4698-4da3-b340-694cc8efd86e",
 		"unreleased": true
 	},
@@ -67,7 +67,7 @@
 			"4766bbef-343a-47e1-968b-20f2a7c66ef9"
 		],
 		"description": "In de context van verhoudingen berekeningen uitvoeren, ook met procenten en verhoudingen",
-		"title": "Gebruiken (2C)",
+		"title": "Gebruiken",
 		"id": "52f7f7af-32c7-41cc-bfc8-67de7228e92d",
 		"unreleased": true
 	},
@@ -79,7 +79,7 @@
 			"3e37f228-6bc5-46b4-aec9-7aea02206fe3"
 		],
 		"description": "Maten voor lengte, oppervlakte, inhoud en gewicht, temperatuur\r\nTijd en geld\r\nMeetinstrumenten\r\nSchrijfwijze en betekenis van meetkundige symbolen en relaties",
-		"title": "Notatie taal en betekenis (3A)",
+		"title": "Notatie taal en betekenis",
 		"id": "09db7417-6094-461c-b51f-3f0e3cf71b79",
 		"unreleased": true
 	},
@@ -91,7 +91,7 @@
 			"b2fbce01-9157-4f16-8cc8-2860b9ea28a6"
 		],
 		"description": "Meetinstrumenten gebruiken\r\nStructuur en samenhang  tussen maateenheden\r\nVerschillende  representaties, 2D en 3D",
-		"title": "Met elkaar in verband brengen (3B)",
+		"title": "Met elkaar in verband brengen",
 		"id": "327b83cd-f1d5-4c71-88e3-0c82771cf86c",
 		"unreleased": true
 	},
@@ -103,7 +103,7 @@
 			"fb6d555f-5308-4381-be4e-9d1973475cbc"
 		],
 		"description": "Meten en Rekenen in de meetkunde",
-		"title": "Gebruiken (3C)",
+		"title": "Gebruiken",
 		"id": "491b4d39-c4de-4704-960a-24636aab91f2",
 		"unreleased": true
 	},
@@ -115,7 +115,7 @@
 			"a5c195d1-c96c-416b-b29a-92df67f654e6"
 		],
 		"description": "Analyseren en interpreteren van informatie uit tabellen, grafische voorstellingen en beschrijvingen\r\nVeel voorkomende diagrammen en grafieken.",
-		"title": "Notatie taal en betekenis (4A)",
+		"title": "Notatie taal en betekenis",
 		"id": "e5222936-f71a-463e-8042-eec9035c85e2",
 		"unreleased": true
 	},
@@ -127,7 +127,7 @@
 			"43f78719-ba99-4c7b-b3ac-b0defd4c849c"
 		],
 		"description": "Verschillende voorstellingvormen met elkaar in verband brengen\r\nGegevens verzamelen, ordenen en weergeven\r\nPatronen beschrijven",
-		"title": "Met elkaar in verband brengen (4B)",
+		"title": "Met elkaar in verband brengen",
 		"id": "b6af6266-a675-4fe1-974e-8f4c4f75c4f5",
 		"unreleased": true
 	},
@@ -139,7 +139,7 @@
 			"3f0b0fa1-57be-4a2c-89ae-dac3b21b0561"
 		],
 		"description": "Tabellen, diagrammen en grafieken gebruiken bij het oplossen van problemen\r\nRekenvaardigheden gebruiken",
-		"title": "Gebruiken (4C)",
+		"title": "Gebruiken",
 		"id": "957b9c7e-56c9-43b7-b523-0c30aaff8fb2",
 		"unreleased": true
 	},
