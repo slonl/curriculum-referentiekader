@@ -21,6 +21,8 @@
 		],
 		"title": "Referentiekader Taal",
 		"id": "2c7be1c1-991d-49e3-884a-602687b55d06",
-		"unreleased": true
+		"unreleased": true,
+		"prefix": "RKT",
+		"description": ""
 	}
 ]
