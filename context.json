@@ -1,4 +1,4 @@
-{
+    {
     "definitions": {
         "ref_vakleergebied": {
             "allOf": [ { "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/inhoud" } ],
@@ -6,6 +6,12 @@
                 "prefix": {
                     "type": "string"
                 },
+				"niveau_id" : {
+					"allOf": [
+						{ "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray" },
+						{ "items": { "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/niveau" } }
+					]
+				},
                 "vakleergebied_id": {
                     "itemTypeReference": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/vakleergebied"
                 },
@@ -65,7 +71,7 @@
                 "prefix": {
                     "type": "string"
                 },
-                "ref_subdomein_id": {
+                "ref_onderwerp_id": {
                     "allOf": [
                         {
                             "$ref": "https://opendata.slo.nl/curriculum/schemas/curriculum-basis/context.json#/definitions/uuidArray"

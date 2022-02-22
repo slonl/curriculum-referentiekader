@@ -1,0 +1,86 @@
+[
+	{
+		"prefix": "RKR_1",
+		"ref_subdomein_id": [
+			"897ef51d-f217-422b-88ef-cd3084e1e909",
+			"85aa7940-b629-4d48-b068-984b2d85dc58",
+			"ef666d6f-2028-4e97-8e59-0fd229e741fc"
+		],
+		"title": "Getallen",
+		"id": "cbe5831f-4031-464d-9f9b-ea9d3c2f324e",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_2",
+		"ref_subdomein_id": [
+			"dd4b124b-72d2-4f7e-97f0-ac093b7e72fa",
+			"7f508269-4698-4da3-b340-694cc8efd86e",
+			"52f7f7af-32c7-41cc-bfc8-67de7228e92d"
+		],
+		"title": "Verhoudingen",
+		"id": "8c519ad9-c040-4560-ab9b-c96caf64d75b",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_3",
+		"ref_subdomein_id": [
+			"09db7417-6094-461c-b51f-3f0e3cf71b79",
+			"327b83cd-f1d5-4c71-88e3-0c82771cf86c",
+			"491b4d39-c4de-4704-960a-24636aab91f2"
+		],
+		"title": "Meten en Meetkunde",
+		"id": "7c8b9edd-ab95-4d54-8bbd-ed2c1bd3d420",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKR_4",
+		"ref_subdomein_id": [
+			"e5222936-f71a-463e-8042-eec9035c85e2",
+			"b6af6266-a675-4fe1-974e-8f4c4f75c4f5",
+			"957b9c7e-56c9-43b7-b523-0c30aaff8fb2"
+		],
+		"title": "Verbanden",
+		"id": "4ee30484-ecec-45b7-9fad-81fcb021ca93",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT1",
+		"ref_subdomein_id": [
+			"c618c2a1-cf6d-4106-b973-8c3b5b599690",
+			"ef31bea7-4afd-4844-a474-d3ce88aa1336",
+			"8357a3fd-d988-4b02-abd7-dcad8632c6be"
+		],
+		"title": "Mondelinge taalvaardigheid",
+		"id": "7c80091e-7993-49a4-b12a-7382cc5c9940",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT2",
+		"ref_subdomein_id": [
+			"62b8576c-dbe7-499f-970c-3f8c8153480f",
+			"7bfe5a51-162c-474e-90d1-3ad728a20972"
+		],
+		"title": "Lezen",
+		"id": "b5bb0c7d-14d3-4cb4-a801-4a243ea268d8",
+		"unreleased": true
+	},
+	{
+		"prefix": "RKT3",
+		"ref_subdomein_id": [
+			"bdb14cdc-e85b-4969-bd00-9c66a0088966",
+			"9a098ea3-920e-446e-b6e3-f8590b657c71",
+			"3191a6c2-2f54-4c4d-b5e3-a90932186316",
+			"64c3fa38-7967-4c47-9d1b-0611db869731"
+		],
+		"doelniveau_id": [
+			"72eab440-1c2d-404f-9826-5043845187ce",
+			"e4d0d8ff-96c2-447a-9750-498e4b3acdd1",
+			"271a364c-3380-4b84-8939-ce2c092b1b2c",
+			"cdde0766-0055-48ca-9f60-c6c3d2a9c17e",
+			"e0a55373-f34f-4cf4-9f35-ef68491424b8"
+		],
+		"title": "Schrijven",
+		"id": "3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
+		"unreleased": true
+	}
+]
