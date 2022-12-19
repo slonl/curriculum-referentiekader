@@ -8,8 +8,7 @@
 		],
 		"description": "Uitspraak, schrijfwijze en betekenis van getallen, symbolen en relaties\r\nWiskundetaal gebruiken",
 		"title": "Notatie taal en betekenis",
-		"id": "897ef51d-f217-422b-88ef-cd3084e1e909",
-		"unreleased": true
+		"id": "897ef51d-f217-422b-88ef-cd3084e1e909"
 	},
 	{
 		"prefix": "RKR_1.B",
@@ -20,8 +19,7 @@
 		],
 		"description": "Getallen en getalrelaties\r\nStructuur en samenhang",
 		"title": "Met elkaar in verband brengen",
-		"id": "85aa7940-b629-4d48-b068-984b2d85dc58",
-		"unreleased": true
+		"id": "85aa7940-b629-4d48-b068-984b2d85dc58"
 	},
 	{
 		"prefix": "RKR_1.C",
@@ -32,8 +30,7 @@
 		],
 		"description": "Hoofdrekenen (n-teren van tussenresultaten toegestaan)\r\nHoofdbewerkingen (+, -, x, :) -p papier uitvoeren met gehele getallen en decimale getallen",
 		"title": "Gebruiken",
-		"id": "ef666d6f-2028-4e97-8e59-0fd229e741fc",
-		"unreleased": true
+		"id": "ef666d6f-2028-4e97-8e59-0fd229e741fc"
 	},
 	{
 		"prefix": "RKR_2.A",
@@ -44,8 +41,7 @@
 		],
 		"description": "Uitspraak, schrijfwijze en betekenis van getallen, symbolen en relaties\r\nWiskundetaal gebruiken",
 		"title": "Notatie taal en betekenis",
-		"id": "dd4b124b-72d2-4f7e-97f0-ac093b7e72fa",
-		"unreleased": true
+		"id": "dd4b124b-72d2-4f7e-97f0-ac093b7e72fa"
 	},
 	{
 		"prefix": "RKR_2.B",
@@ -56,8 +52,7 @@
 		],
 		"description": "Verhouding, procent, breuk, decimaal getal, deling, 'deel van' met elkaar in verband brengen",
 		"title": "Met elkaar in verband brengen",
-		"id": "7f508269-4698-4da3-b340-694cc8efd86e",
-		"unreleased": true
+		"id": "7f508269-4698-4da3-b340-694cc8efd86e"
 	},
 	{
 		"prefix": "RKR_2.C",
@@ -68,8 +63,7 @@
 		],
 		"description": "In de context van verhoudingen berekeningen uitvoeren, ook met procenten en verhoudingen",
 		"title": "Gebruiken",
-		"id": "52f7f7af-32c7-41cc-bfc8-67de7228e92d",
-		"unreleased": true
+		"id": "52f7f7af-32c7-41cc-bfc8-67de7228e92d"
 	},
 	{
 		"prefix": "RKR_3.A",
@@ -80,8 +74,7 @@
 		],
 		"description": "Maten voor lengte, oppervlakte, inhoud en gewicht, temperatuur\r\nTijd en geld\r\nMeetinstrumenten\r\nSchrijfwijze en betekenis van meetkundige symbolen en relaties",
 		"title": "Notatie taal en betekenis",
-		"id": "09db7417-6094-461c-b51f-3f0e3cf71b79",
-		"unreleased": true
+		"id": "09db7417-6094-461c-b51f-3f0e3cf71b79"
 	},
 	{
 		"prefix": "RKR_3.B",
@@ -92,8 +85,7 @@
 		],
 		"description": "Meetinstrumenten gebruiken\r\nStructuur en samenhang  tussen maateenheden\r\nVerschillende  representaties, 2D en 3D",
 		"title": "Met elkaar in verband brengen",
-		"id": "327b83cd-f1d5-4c71-88e3-0c82771cf86c",
-		"unreleased": true
+		"id": "327b83cd-f1d5-4c71-88e3-0c82771cf86c"
 	},
 	{
 		"prefix": "RKR_3.C",
@@ -104,8 +96,7 @@
 		],
 		"description": "Meten en Rekenen in de meetkunde",
 		"title": "Gebruiken",
-		"id": "491b4d39-c4de-4704-960a-24636aab91f2",
-		"unreleased": true
+		"id": "491b4d39-c4de-4704-960a-24636aab91f2"
 	},
 	{
 		"prefix": "RKR_4.A",
@@ -116,8 +107,7 @@
 		],
 		"description": "Analyseren en interpreteren van informatie uit tabellen, grafische voorstellingen en beschrijvingen\r\nVeel voorkomende diagrammen en grafieken.",
 		"title": "Notatie taal en betekenis",
-		"id": "e5222936-f71a-463e-8042-eec9035c85e2",
-		"unreleased": true
+		"id": "e5222936-f71a-463e-8042-eec9035c85e2"
 	},
 	{
 		"prefix": "RKR_4.B",
@@ -128,8 +118,7 @@
 		],
 		"description": "Verschillende voorstellingvormen met elkaar in verband brengen\r\nGegevens verzamelen, ordenen en weergeven\r\nPatronen beschrijven",
 		"title": "Met elkaar in verband brengen",
-		"id": "b6af6266-a675-4fe1-974e-8f4c4f75c4f5",
-		"unreleased": true
+		"id": "b6af6266-a675-4fe1-974e-8f4c4f75c4f5"
 	},
 	{
 		"prefix": "RKR_4.C",
@@ -140,8 +129,7 @@
 		],
 		"description": "Tabellen, diagrammen en grafieken gebruiken bij het oplossen van problemen\r\nRekenvaardigheden gebruiken",
 		"title": "Gebruiken",
-		"id": "957b9c7e-56c9-43b7-b523-0c30aaff8fb2",
-		"unreleased": true
+		"id": "957b9c7e-56c9-43b7-b523-0c30aaff8fb2"
 	},
 	{
 		"prefix": "RKT1.1",
@@ -156,8 +144,7 @@
 			"9e2cc40b-1a1f-4e30-93ce-887275c2ee78"
 		],
 		"title": "Gesprekken",
-		"id": "c618c2a1-cf6d-4106-b973-8c3b5b599690",
-		"unreleased": true
+		"id": "c618c2a1-cf6d-4106-b973-8c3b5b599690"
 	},
 	{
 		"prefix": "RKT1.2",
@@ -173,8 +160,7 @@
 			"2a71fcbd-7f3d-4c88-8f38-db7258e75f56"
 		],
 		"title": "Luisteren",
-		"id": "ef31bea7-4afd-4844-a474-d3ce88aa1336",
-		"unreleased": true
+		"id": "ef31bea7-4afd-4844-a474-d3ce88aa1336"
 	},
 	{
 		"prefix": "RKT1.3",
@@ -188,8 +174,7 @@
 			"9ea90fdb-aa01-4562-b4cb-d903c1e48101"
 		],
 		"title": "Spreken",
-		"id": "8357a3fd-d988-4b02-abd7-dcad8632c6be",
-		"unreleased": true
+		"id": "8357a3fd-d988-4b02-abd7-dcad8632c6be"
 	},
 	{
 		"prefix": "RKT2.1",
@@ -215,8 +200,7 @@
 			"421464e0-ad1b-4af3-9e60-717c0b14918a"
 		],
 		"title": "Zakelijke teksten",
-		"id": "62b8576c-dbe7-499f-970c-3f8c8153480f",
-		"unreleased": true
+		"id": "62b8576c-dbe7-499f-970c-3f8c8153480f"
 	},
 	{
 		"prefix": "RKT2.2",
@@ -241,8 +225,7 @@
 			"1c83291e-e1e3-4f9e-b930-51fcd465d888"
 		],
 		"title": "Fictionele, narratieve en literaire teksten",
-		"id": "7bfe5a51-162c-474e-90d1-3ad728a20972",
-		"unreleased": true
+		"id": "7bfe5a51-162c-474e-90d1-3ad728a20972"
 	},
 	{
 		"prefix": "RKT3.1",
@@ -263,8 +246,7 @@
 			"246fb990-fd3a-4fb8-81e3-c9e82522d642"
 		],
 		"title": "Correspondentie",
-		"id": "bdb14cdc-e85b-4969-bd00-9c66a0088966",
-		"unreleased": true
+		"id": "bdb14cdc-e85b-4969-bd00-9c66a0088966"
 	},
 	{
 		"prefix": "RKT3.2",
@@ -281,8 +263,7 @@
 			"d3c07d92-31e9-4e41-adda-e4a5deedf50b"
 		],
 		"title": "Formulieren invullen, berichten, advertenties en aantekeningen",
-		"id": "9a098ea3-920e-446e-b6e3-f8590b657c71",
-		"unreleased": true
+		"id": "9a098ea3-920e-446e-b6e3-f8590b657c71"
 	},
 	{
 		"prefix": "RKT3.3",
@@ -300,8 +281,7 @@
 			"fd6a2f8e-4f3b-42af-8e7c-fc2674ce45b3"
 		],
 		"title": "Verslagen, werkstukken, samenvattingen, artikelen",
-		"id": "3191a6c2-2f54-4c4d-b5e3-a90932186316",
-		"unreleased": true
+		"id": "3191a6c2-2f54-4c4d-b5e3-a90932186316"
 	},
 	{
 		"prefix": "RKT3.4",
@@ -309,7 +289,6 @@
 			"38d3bc09-c8f0-44de-959f-a53d85eeeea1"
 		],
 		"title": "Vrij schrijven",
-		"id": "64c3fa38-7967-4c47-9d1b-0611db869731",
-		"unreleased": true
+		"id": "64c3fa38-7967-4c47-9d1b-0611db869731"
 	}
 ]

@@ -7,8 +7,7 @@
 			"ef666d6f-2028-4e97-8e59-0fd229e741fc"
 		],
 		"title": "Getallen",
-		"id": "cbe5831f-4031-464d-9f9b-ea9d3c2f324e",
-		"unreleased": true
+		"id": "cbe5831f-4031-464d-9f9b-ea9d3c2f324e"
 	},
 	{
 		"prefix": "RKR_2",
@@ -18,8 +17,7 @@
 			"52f7f7af-32c7-41cc-bfc8-67de7228e92d"
 		],
 		"title": "Verhoudingen",
-		"id": "8c519ad9-c040-4560-ab9b-c96caf64d75b",
-		"unreleased": true
+		"id": "8c519ad9-c040-4560-ab9b-c96caf64d75b"
 	},
 	{
 		"prefix": "RKR_3",
@@ -29,8 +27,7 @@
 			"491b4d39-c4de-4704-960a-24636aab91f2"
 		],
 		"title": "Meten en Meetkunde",
-		"id": "7c8b9edd-ab95-4d54-8bbd-ed2c1bd3d420",
-		"unreleased": true
+		"id": "7c8b9edd-ab95-4d54-8bbd-ed2c1bd3d420"
 	},
 	{
 		"prefix": "RKR_4",
@@ -40,8 +37,7 @@
 			"957b9c7e-56c9-43b7-b523-0c30aaff8fb2"
 		],
 		"title": "Verbanden",
-		"id": "4ee30484-ecec-45b7-9fad-81fcb021ca93",
-		"unreleased": true
+		"id": "4ee30484-ecec-45b7-9fad-81fcb021ca93"
 	},
 	{
 		"prefix": "RKT1",
@@ -51,8 +47,7 @@
 			"8357a3fd-d988-4b02-abd7-dcad8632c6be"
 		],
 		"title": "Mondelinge taalvaardigheid",
-		"id": "7c80091e-7993-49a4-b12a-7382cc5c9940",
-		"unreleased": true
+		"id": "7c80091e-7993-49a4-b12a-7382cc5c9940"
 	},
 	{
 		"prefix": "RKT2",
@@ -61,8 +56,7 @@
 			"7bfe5a51-162c-474e-90d1-3ad728a20972"
 		],
 		"title": "Lezen",
-		"id": "b5bb0c7d-14d3-4cb4-a801-4a243ea268d8",
-		"unreleased": true
+		"id": "b5bb0c7d-14d3-4cb4-a801-4a243ea268d8"
 	},
 	{
 		"prefix": "RKT3",
@@ -80,7 +74,6 @@
 			"e0a55373-f34f-4cf4-9f35-ef68491424b8"
 		],
 		"title": "Schrijven",
-		"id": "3294a2a0-af2e-4d78-bf6e-faa79cc25a36",
-		"unreleased": true
+		"id": "3294a2a0-af2e-4d78-bf6e-faa79cc25a36"
 	}
 ]
